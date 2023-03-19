@@ -1,0 +1,21 @@
+.note{
+    background-color: darkblue;
+    border-radius: 15px;
+    padding: 10px;
+    min-height: 200px;
+    display: flex;
+    color:white;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete:hover{
+    cursor: pointer;
+}
